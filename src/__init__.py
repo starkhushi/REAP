@@ -1,0 +1,1 @@
+"""Stubble-burning analysis package."""

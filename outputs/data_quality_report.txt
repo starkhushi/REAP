@@ -1,0 +1,17 @@
+STUBBLE-BURNING DATA QUALITY REPORT
+======================================
+Raw rows ................. 270,442
+Dropped (column-shifted) . 35
+Clean rows ............... 270,407
+Districts (deduped) ...... 26
+Unparseable dates ........ 0
+Geo-invalid (lat corrupt). 6,865  (flagged, kept)
+Missing fire power ....... 1,384
+Missing village .......... 68,411
+
+HEADLINE INSIGHT
+--------------------------------------
+Total fires .............. 270,407
+Share in Oct-Nov ......... 99.9%
+Top 5 districts share .... 48.1%
+Top 5 districts .......... SANGRUR, FIROZPUR, BATHINDA, MUKTSAR, PATIALA
